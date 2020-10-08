@@ -14,3 +14,12 @@ Considering that different companies have different resistance to unexpected fac
 Finally, considering the different types of emergent factors and various types of enterprises in actual situations, nature (positive or negative) and degree of the impact on their operating conditions will be different. Therefore, we also consider the impact of sudden factors on corporate, including the impact degree of sudden factors, the severity of sudden factors, and the nature of sudden factors determined by the scope of influence and the time of action. Based on the above three aspects, the new crown epidemic took as an example to analyze corporate lending plans' adjustment strategies.
 
 ## Data description
+
+> Company Information
+![company information](企业信息.png)
+
+> Input invoice
+![input invoice](进项发票.png)
+
+> Output invoice
+![output invoice](销项发票.png)

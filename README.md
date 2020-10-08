@@ -26,8 +26,8 @@ Finally, considering the different types of emergent factors and various types o
 
 ## Research paper
 
-- [Research on Credit Strategy Modeling Based on Corporate Reputation Rating]()
-- [Research on Modeling of Small and Medium-sized Enterprise Credit Strategy Considering Sudden Factors]()
+- [Research on Credit Strategy Modeling Based on Corporate Reputation Rating](https://github.com/PrideLee/Research-on-Credit-Decisions-of-Small-Medium-and-Micro-Enterprises/blob/master/Research-on-Credit-Decisions-of-Small-Medium-and-Micro-Enterprises/Research%20on%20Credit%20Strategy%20Modeling%20Based%20on%20Corporate%20Reputation%20Rating.pdf)
+- [Research on Modeling of Small and Medium-sized Enterprise Credit Strategy Considering Sudden Factors](https://github.com/PrideLee/Research-on-Credit-Decisions-of-Small-Medium-and-Micro-Enterprises/blob/master/Research-on-Credit-Decisions-of-Small-Medium-and-Micro-Enterprises/Research%20on%20Modeling%20of%20Small%20and%20Medium-sized%20Enterprise%20Credit%20Strategy%20Considering%20Sudden%20Factors.pdf)
 
 ## Author
 - [Zihao Li](https://pridelee.github.io/)

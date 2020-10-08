@@ -7,7 +7,7 @@ In practice, due to the relatively small scale of medium, micro-enterprises, and
 
 (2) The production, operation, and economic benefits of enterprises may be affected by some sudden factors. Besides, sudden factors often have different effects on different industries and various types of enterprises. Comprehensively considering the credit risks of each company and the impact of possible sudden factors (such as the new crown virus epidemic) on each company, give the bank's credit adjustment strategy when the total annual credit is fixed.
 
-## Research 
+## Brief Introduction of Research Plan
 
 Considering that different companies have different resistance to unexpected factors, the company's "reliability" index is proposed. Simultaneously, the company's "reliability" indicator is quantified based on the size of the company (the difference between the total amount of invoicing and sales invoices) and the company's reputation. Supposing that the higher the "reliability" of an enterprise, the lower its default rate in the face of unexpected factors. Based on this, the functional relationship between enterprise "reliability" and default rate is established, and the model obtained from problem one is revised. Finally, considering the complexity and uncertainty of the actual situation, it is considered that the default rate of the enterprise will obey the Gaussian distribution rather than a fixed value. At the same time, under the influence of unexpected factors, to ensure the bank's profitability, it helps companies overcome the difficulties as much as possible. Thus, increasing the loan line of "high-quality" enterprises, reducing or canceling the loan opportunities, and reducing the ​​loan interest rates of "low-quality" enterprises were proposed to maximize bank profits and minimize corporate default risks and maximize corporate relief. Based on this, the company's lending strategy was simulated several times under the influence of unexpected factors, and finally obtained lending plans for companies of different credit ratings and sizes.
 
@@ -15,11 +15,21 @@ Finally, considering the different types of emergent factors and various types o
 
 ## Data description
 
-> Company Information
+> Company Information:
 ![company information](企业信息.png)
 
-> Input invoice
+> Input invoice:
 ![input invoice](进项发票.png)
 
-> Output invoice
+> Output invoice:
 ![output invoice](销项发票.png)
+
+## Research paper
+
+- [Research on Credit Strategy Modeling Based on Corporate Reputation Rating]()
+- [Research on Modeling of Small and Medium-sized Enterprise Credit Strategy Considering Sudden Factors]()
+
+## Author
+- [Zihao Li](https://pridelee.github.io/)
+
+
